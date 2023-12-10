@@ -10,3 +10,7 @@ https://sigmaco.org/glide
 
 Glide is © 1999 3dfx Interactive, Inc.. All rights reserved.
 Technical contact: technology@sigmaco.org.
+
+## Este repositório é parte do Museum Cybercultista Da Federação SIGMA
+Federação SIGMA, fazendo negócios anteriormente como SIGMA Co. (contração de SIGMA Collective), é um conglomerado cybercultista, de interesse público e direito privado, estabelecido para reunir, organizar e orquestrar, em uma só massa, todas as sociedades, juntas de serviço, colunas operacionais, e seus respectivos recursos, ativos, bens e direitos sob a autoridade comum e a titularidade singular da SIGMA, o coletivo de ciência, tecnologia e engenharia cybernética da América Latina.
+(c) 2011-2023 Federação SIGMA. Todos os direitos reservados; aos seus respectivos elaboradores e colaboradores.
