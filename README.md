@@ -15,7 +15,7 @@ https://sigmaco.org/glide
 
 ## Archived and preserved by SIGMA
 
-This documentation was taken as part of the history of computer graphics and is now archived and being preserved by the cybercultist museum of the Federação SIGMA.
+This software was taken as part of the history of computer graphics and is now archived and being preserved by the cybercultist museum of the Federação SIGMA.
 
 Federação SIGMA, formerly doing business as SIGMA Co. (contraction of SIGMA Collective), is a cybercultist conglomerate, of public interest and private law, established to bring together, organize and orchestrate, in a single mass, all societies, service boards, operational columns, and their respective resources, assets and rights under the common authority and singular ownership of SIGMA, the Latin American science, technology and cyber engineering collective.
 
