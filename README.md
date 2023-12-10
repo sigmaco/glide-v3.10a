@@ -13,9 +13,12 @@ Glide is © 1999 3dfx Interactive, Inc.. All rights reserved.
 
 https://sigmaco.org/glide
 
-## Este repositório é parte do Museum Cybercultista Da Federação SIGMA
-Federação SIGMA, fazendo negócios anteriormente como SIGMA Co. (contração de SIGMA Collective), é um conglomerado cybercultista, de interesse público e direito privado, estabelecido para reunir, organizar e orquestrar, em uma só massa, todas as sociedades, juntas de serviço, colunas operacionais, e seus respectivos recursos, ativos, bens e direitos sob a autoridade comum e a titularidade singular da SIGMA, o coletivo de ciência, tecnologia e engenharia cybernética da América Latina.
+## Archived and preserved by SIGMA
 
-(c) 2011-2023 Federação SIGMA. Todos os direitos reservados; aos seus respectivos elaboradores e colaboradores.
+This documentation was taken as part of the history of computer graphics and is now archived and being preserved by the cybercultist museum of the Federação SIGMA.
+
+Federação SIGMA, formerly doing business as SIGMA Co. (contraction of SIGMA Collective), is a cybercultist conglomerate, of public interest and private law, established to bring together, organize and orchestrate, in a single mass, all societies, service boards, operational columns, and their respective resources, assets and rights under the common authority and singular ownership of SIGMA, the Latin American science, technology and cyber engineering collective.
+
+© 2011-2023 Federação SIGMA. All rights reserved; to their respective elaborators and collaborators.
 
 Technical contact: technology@sigmaco.org.
